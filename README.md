@@ -46,7 +46,7 @@ cd CourseRestAPI
 python manage.py runserver
 ```
 
-You can test the API
+You can test this API
 * (https://courses21.docs.apiary.io/#/) 
 
 
