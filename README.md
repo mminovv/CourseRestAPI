@@ -38,7 +38,7 @@ pip install djangorestframework
 Clone this repository
 
 ```
-https://github.com/mminovv/CourseRestAPI.git
+git clone https://github.com/mminovv/CourseRestAPI.git
 ```
 Now you can run the project
 ```
